@@ -1,0 +1,40 @@
+h1 {
+    color: Olive;
+    font-family: Papyrus;
+  }
+  
+  p {
+    background: #9ed9ce;
+  }
+  
+  h1 {
+    font-size: 72px;
+    letter-spacing: -3px;
+    margin-top: 0;
+    margin-bottom: .125em;
+    text-align: center;
+  }
+  figure{
+    border: 1px solid black;
+    padding: 35px;
+    padding-bottom: 70px;
+    
+  }
+  figure img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  figcaption {
+    text-align: center;
+  }
+  p img {
+    float: right;
+    max-width: 60%;
+    margin-left: 20px;
+    margin-bottom: 32px;
+  }
