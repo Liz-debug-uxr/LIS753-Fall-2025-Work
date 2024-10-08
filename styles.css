@@ -39,6 +39,19 @@ h1 {
   figcaption {
     text-align: center;
   }
+
+  figure.main-image{
+
+
+  }
+
+  figure.section-image{
+
+
+
+  }
+
+  
   p img {
     float: right;
     max-width: 60%;
