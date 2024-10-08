@@ -41,17 +41,19 @@ h1 {
   }
 
   figure.main-image{
-
-
+background: palegoldenrod
+border: mediumpurple
+color: #ffffff
   }
 
   figure.section-image{
-
-
-
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 32px;
+    max-width: 320px;
   }
 
-  
+
   p img {
     float: right;
     max-width: 60%;
