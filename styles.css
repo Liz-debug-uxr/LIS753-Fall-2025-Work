@@ -20,7 +20,11 @@ h1 {
     font-size: 48px;
   }
 
-  
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+
   figure{
     border: 1px solid black;
     padding: 35px;
@@ -28,8 +32,6 @@ h1 {
     
   }
   figure img {
-    max-width: 100%;
-    height: auto;
     margin-bottom: 12px;
     display: block;
     margin-left: auto;
