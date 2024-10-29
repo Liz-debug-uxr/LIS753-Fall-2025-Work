@@ -76,11 +76,18 @@ color: #ffffff
   }
 
   nav ul {
-    display: flex;
-    justify-content: space-between;
+    
     list-style: none;
     padding-left: 0;
   }
+
+@media all and (min-width:376px) {
+  nav ul {}
+  display: flex;
+  justify-content: center;
+  gap: 30 px;
+  }
+}
 
   nav ul li {
 
