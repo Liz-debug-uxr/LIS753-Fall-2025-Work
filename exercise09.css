@@ -6,6 +6,26 @@ body.dark-mode {
   body.dark-mode button {
     background-color: #ffffff;
   }
+  
+body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  p {
+    color: #333333;
+  }
+  
+  
+  body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  body.dark-mode p {
+    color: #e0e0e0; 
+  }
+  
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -17,7 +37,7 @@ body.dark-mode {
 
 
 header {
-    background-color: #2E7D32; /* Darker green for better contrast */
+    background-color: #2E7D32; 
     color: white;
     text-align: center;
     padding: 20px 0;
